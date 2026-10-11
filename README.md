@@ -23,3 +23,8 @@
 - 기술 블로그: https://blog.gillilab.com
 - 길리랩: https://gillilab.com
 - 문의: hello@gillilab.com
+
+## 라이선스
+
+- 문서(`*.md`·이미지): [CC BY-NC-SA 4.0](LICENSE-docs.md) — 출처 표시, 비영리, 동일조건
+- 실습 코드·설정 파일(`lab/`): [MIT](LICENSE)
